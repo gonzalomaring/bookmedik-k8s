@@ -1,1 +1,0 @@
-# bookmedik-k8s
